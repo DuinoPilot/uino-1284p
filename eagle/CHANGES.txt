@@ -1,0 +1,6 @@
+Changelog for *uino-1284p
+-------------------------
+
+Dec 29 2011
+- Day 1 of cooking up the schematic and board
+
