@@ -1,6 +1,14 @@
 Changelog for *uino-1284p
 -------------------------
 
+Dec 30 2011
+- Completed schematic
+- Completed the board layout
+- Completed silk screen
+- Did not break out 8 available IO of ATmega1284p that would be
+  in addition of "normal" Arduino pins (maybe a future task)
+- Need to review in depth before committing to manufacture
+
 Dec 29 2011
 - Day 1 of cooking up the schematic and board
 
