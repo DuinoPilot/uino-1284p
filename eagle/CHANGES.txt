@@ -1,7 +1,14 @@
 Changelog for *uino-1284p
 -------------------------
 
+Dec 31 2011
+v0.3
+- Added 5x2 header to make additional I/O available.
+- Replaced shottky diode on USB supply with jumper for input
+  supply voltage selection.
+
 Dec 30 2011
+v0.2
 - Completed schematic
 - Completed the board layout
 - Completed silk screen
